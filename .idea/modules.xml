@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dc-backend/dc-backend.iml" filepath="$PROJECT_DIR$/dc-backend/dc-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/dungeonay-crawler.iml" filepath="$PROJECT_DIR$/dungeonay-crawler.iml" />
     </modules>
   </component>
